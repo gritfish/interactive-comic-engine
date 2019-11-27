@@ -1,0 +1,35 @@
+[
+{"Page":"00","Order":"0","Panel":"01","x":"180","y":"362","width":"239","height":"69","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"01","Order":"1","Panel":"01","x":"180","y":"362","width":"239","height":"69","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"02","Order":"1","Panel":"01","x":"184","y":"165","width":"234","height":"130","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"02","Order":"2","Panel":"02","x":"190","y":"535","width":"220","height":"70","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"03","Order":"1","Panel":"01","x":"61","y":"59","width":"337","height":"174","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"03","Order":"2","Panel":"02","x":"61","y":"399","width":"434","height":"218","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"04","Order":"1","Panel":"01","x":"131","y":"216","width":"339","height":"38","linksToPage":"5","Page Width":"600","Page Height":"800","Has Hover":"TRUE","ShowIfVisited":""}
+,
+{"Page":"04","Order":"1","Panel":"02","x":"123","y":"548","width":"356","height":"45","linksToPage":"6","Page Width":"600","Page Height":"800","Has Hover":"TRUE","ShowIfVisited":""}
+,
+{"Page":"05","Order":"1","Panel":"01","x":"110","y":"217","width":"381","height":"27","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"06","Order":"1","Panel":"01","x":"122","y":"549","width":"355","height":"43","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"07","Order":"1","Panel":"01","x":"180","y":"365","width":"240","height":"69","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"08","Order":"1","Panel":"01","x":"61","y":"59","width":"426","height":"243","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"08","Order":"2","Panel":"02","x":"168","y":"471","width":"266","height":"38","linksToPage":"9","Page Width":"600","Page Height":"800","Has Hover":"TRUE","ShowIfVisited":""}
+,
+{"Page":"08","Order":"2","Panel":"03","x":"186","y":"635","width":"229","height":"40","linksToPage":"10","Page Width":"600","Page Height":"800","Has Hover":"TRUE","ShowIfVisited":""}
+,
+{"Page":"09","Order":"1","Panel":"01","x":"132","y":"335","width":"335","height":"131","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"10","Order":"1","Panel":"01","x":"110","y":"321","width":"380","height":"156","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+,
+{"Page":"11","Order":"1","Panel":"01","x":"59","y":"59","width":"403","height":"215","linksToPage":"","Page Width":"600","Page Height":"800","Has Hover":"","ShowIfVisited":""}
+]

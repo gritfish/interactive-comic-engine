@@ -1,0 +1,343 @@
+html, body {
+  background: black;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%; }
+
+.book {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%); }
+  @media (max-height: calc(800px * 94%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.94); } }
+  @media (max-height: calc(800px * 93%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.93); } }
+  @media (max-height: calc(800px * 92%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.92); } }
+  @media (max-height: calc(800px * 91%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.91); } }
+  @media (max-height: calc(800px * 90%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.9); } }
+  @media (max-height: calc(800px * 89%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.89); } }
+  @media (max-height: calc(800px * 88%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.88); } }
+  @media (max-height: calc(800px * 87%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.87); } }
+  @media (max-height: calc(800px * 86%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.86); } }
+  @media (max-height: calc(800px * 85%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.85); } }
+  @media (max-height: calc(800px * 84%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.84); } }
+  @media (max-height: calc(800px * 83%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.83); } }
+  @media (max-height: calc(800px * 82%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.82); } }
+  @media (max-height: calc(800px * 81%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.81); } }
+  @media (max-height: calc(800px * 80%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.8); } }
+  @media (max-height: calc(800px * 79%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.79); } }
+  @media (max-height: calc(800px * 78%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.78); } }
+  @media (max-height: calc(800px * 77%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.77); } }
+  @media (max-height: calc(800px * 76%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.76); } }
+  @media (max-height: calc(800px * 75%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.75); } }
+  @media (max-height: calc(800px * 74%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.74); } }
+  @media (max-height: calc(800px * 73%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.73); } }
+  @media (max-height: calc(800px * 72%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.72); } }
+  @media (max-height: calc(800px * 71%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.71); } }
+  @media (max-height: calc(800px * 70%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.7); } }
+  @media (max-height: calc(800px * 69%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.69); } }
+  @media (max-height: calc(800px * 68%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.68); } }
+  @media (max-height: calc(800px * 67%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.67); } }
+  @media (max-height: calc(800px * 66%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.66); } }
+  @media (max-height: calc(800px * 65%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.65); } }
+  @media (max-height: calc(800px * 64%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.64); } }
+  @media (max-height: calc(800px * 63%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.63); } }
+  @media (max-height: calc(800px * 62%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.62); } }
+  @media (max-height: calc(800px * 61%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.61); } }
+  @media (max-height: calc(800px * 60%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.6); } }
+  @media (max-height: calc(800px * 59%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.59); } }
+  @media (max-height: calc(800px * 58%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.58); } }
+  @media (max-height: calc(800px * 57%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.57); } }
+  @media (max-height: calc(800px * 56%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.56); } }
+  @media (max-height: calc(800px * 55%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.55); } }
+  @media (max-height: calc(800px * 54%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.54); } }
+  @media (max-height: calc(800px * 53%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.53); } }
+  @media (max-height: calc(800px * 52%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.52); } }
+  @media (max-height: calc(800px * 51%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.51); } }
+  @media (max-height: calc(800px * 50%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.5); } }
+  @media (max-height: calc(800px * 49%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.49); } }
+  @media (max-height: calc(800px * 48%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.48); } }
+  @media (max-height: calc(800px * 47%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.47); } }
+  @media (max-height: calc(800px * 46%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.46); } }
+  @media (max-height: calc(800px * 45%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.45); } }
+  @media (max-height: calc(800px * 44%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.44); } }
+  @media (max-height: calc(800px * 43%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.43); } }
+  @media (max-height: calc(800px * 42%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.42); } }
+  @media (max-height: calc(800px * 41%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.41); } }
+  @media (max-height: calc(800px * 40%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.4); } }
+  @media (max-height: calc(800px * 39%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.39); } }
+  @media (max-height: calc(800px * 38%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.38); } }
+  @media (max-height: calc(800px * 37%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.37); } }
+  @media (max-height: calc(800px * 36%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.36); } }
+  @media (max-height: calc(800px * 35%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.35); } }
+  @media (max-height: calc(800px * 34%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.34); } }
+  @media (max-height: calc(800px * 33%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.33); } }
+  @media (max-height: calc(800px * 32%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.32); } }
+  @media (max-height: calc(800px * 31%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.31); } }
+  @media (max-height: calc(800px * 30%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.3); } }
+  @media (max-height: calc(800px * 29%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.29); } }
+  @media (max-height: calc(800px * 28%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.28); } }
+  @media (max-height: calc(800px * 27%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.27); } }
+  @media (max-height: calc(800px * 26%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.26); } }
+  @media (max-height: calc(800px * 25%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.25); } }
+  @media (max-height: calc(800px * 24%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.24); } }
+  @media (max-height: calc(800px * 23%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.23); } }
+  @media (max-height: calc(800px * 22%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.22); } }
+  @media (max-height: calc(800px * 21%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.21); } }
+  @media (max-height: calc(800px * 20%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.2); } }
+  @media (max-height: calc(800px * 19%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.19); } }
+  @media (max-height: calc(800px * 18%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.18); } }
+  @media (max-height: calc(800px * 17%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.17); } }
+  @media (max-height: calc(800px * 16%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.16); } }
+  @media (max-height: calc(800px * 15%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.15); } }
+  @media (max-height: calc(800px * 14%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.14); } }
+  @media (max-height: calc(800px * 13%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.13); } }
+  @media (max-height: calc(800px * 12%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.12); } }
+  @media (max-height: calc(800px * 11%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.11); } }
+  @media (max-height: calc(800px * 10%)) {
+    .book {
+      transform: translateX(-50%) translateY(-50%) scale(0.1); } }
+  .book .page {
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; }
+  .book .panel {
+    position: absolute;
+    background-size: contain;
+    opacity: 0;
+    transition: all 0.5s;
+    background-repeat: no-repeat;
+    background-position: center; }
+    .book .panel.visible {
+      opacity: 1; }
+    .book .panel .image, .book .panel .hover {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center; }
+    .book .panel .hover {
+      display: none; }
+    .book .panel.hasHover {
+      cursor: pointer;
+      pointer-events: all; }
+      .book .panel.hasHover:hover .hover {
+        display: block; }
+  .book .controls {
+    position: absolute;
+    top: 50%;
+    right: -240px;
+    transform: translateY(-50%); }
+    .book .controls div {
+      float: left;
+      clear: both;
+      width: 171px;
+      height: 171px;
+      cursor: pointer;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center; }
+      .book .controls div.previous {
+        background-image: url(../img/ui_previous.png); }
+        .book .controls div.previous:hover {
+          background-image: url(../img/ui_previous_hover.png); }
+      .book .controls div.next {
+        background-image: url(../img/ui_next.png); }
+        .book .controls div.next:hover {
+          background-image: url(../img/ui_next_hover.png); }
+      .book .controls div.reset {
+        background-image: url(../img/ui_reset.png); }
+        .book .controls div.reset:hover {
+          background-image: url(../img/ui_reset_hover.png); }
+      .book .controls div.quit {
+        background-image: url(../img/ui_quit.png); }
+        .book .controls div.quit:hover {
+          background-image: url(../img/ui_quit_hover.png); }
+    @media (max-width: 1000px) {
+      .book .controls {
+        position: absolute;
+        top: auto;
+        right: auto;
+        left: 50%;
+        bottom: -171px;
+        transform: translateX(-50%); }
+        .book .controls div {
+          float: left;
+          clear: none; } }
+
+/*# sourceMappingURL=style.css.map */

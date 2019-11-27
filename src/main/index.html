@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Comic Engine Demo</title>
+	<meta name="author" content="Gritfish">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+	<link href="built-css/style.css" rel="stylesheet">
+	<script src="nwFunctions.js"></script>
+	<script src="built-js/main.js"></script>
+
+<body ng-app="myApp">
+	<div class="book" ng-controller="BookController" style="width:{{bookWidth()}}px; height:{{bookHeight()}}px;">
+		<!-- <div style="font-size:80px; color: white;">{{pageHistory}}</div> -->
+		<div class="page" ng-repeat="page in pages" ng-if="page['Page'] == currentPage" ng-click="advancePanel()" style="width:{{bookWidth()}}px; height:{{bookHeight()}}px; background-image:url(img/bg_pg{{page.Background}}.png);">
+			<div class="panel" ng-repeat="panel in panels | filter:{ Page: page['Page'] }:true" ng-if="shouldShowPanel(panel)" ng-class="{visible:panel.Order <= currentPanel, hasHover:panel['Has Hover'], hasLink:panel.linksToPage}" ng-click="panelClick(panel.linksToPage)" style="top:{{panel.y}}px; left:{{panel.x}}px; width:{{panel.width}}px; height:{{panel.height}}px;">
+				<div class="image" style="background-image:url(img/pg{{panel.Page}}_pn{{panel.Panel}}.png);"></div>
+				<div ng-if="panel['Has Hover']" class="hover" style="background-image:url(img/pg{{panel.Page}}_pn{{panel.Panel}}_hover.png);"></div>
+			</div>
+		</div>
+		<div class="controls">
+			<div class="previous" ng-if="canRewind()" ng-click="previousClick()"></div>
+			<div class="next" ng-if="canAdvance()" ng-click="nextClick()"></div>
+			<div class="reset" ng-click="resetClick()"></div>
+			<div class="quit" ng-click="quitClick()"></div>
+		</div>
+	</div>
+</body>
+
+</html>
